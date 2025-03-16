@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pygame
+mesa
+flask
+django
+react
+sqlite3
+mongoengine
